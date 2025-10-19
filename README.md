@@ -1,8 +1,8 @@
 # 🧠 SE3082 – Parallel Computing Assignment 2 (2025)
 
 ### Student Info
-- **Name:** D. J. N. Dissanayaka  
-- **Student ID:** IT23289384  
+- **Name:** J. G. D. A. Abeyrathna 
+- **Student ID:** IT23424432  
 - **Platform:** macOS (Apple M2) + Google Colab (CUDA)
 
 ---
@@ -17,5 +17,5 @@ The objective was to:
 
 ---
 
-## 📁 Repository Structure
+
 
